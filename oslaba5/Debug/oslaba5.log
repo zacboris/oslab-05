@@ -1,2 +1,11 @@
-﻿  oslaba5.vcxproj -> C:\oslaba5\Debug\oslaba5.exe
+﻿  main.c
+c:\oslaba5\main.c(13): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "int *"
+c:\oslaba5\main.c(13): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "int *"
+c:\oslaba5\main.c(13): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "int *"
+c:\oslaba5\main.c(13): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "4" имеет тип "int *"
+c:\oslaba5\main.c(13): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "5" имеет тип "int *"
+c:\oslaba5\main.c(13): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "6" имеет тип "int *"
+  combinatorics.c
+  Создание кода...
+  oslaba5.vcxproj -> C:\oslaba5\Debug\oslaba5.exe
   oslaba5.vcxproj -> C:\oslaba5\Debug\oslaba5.pdb (Partial PDB)
